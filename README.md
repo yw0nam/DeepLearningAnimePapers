@@ -22,7 +22,8 @@ Contributions welcome!
 # Anime Datasets
 - 2000 anime/manga images with 2D pose annotations [[github]](https://github.com/dragonmeteor/AnimeDrawingsDataset) (Last updated June 10 2015)
 - 109 manga volumes from the 1970s to 2010s [[link]](http://www.manga109.org/en/)
-- 2.9+ million images database from Danbooru with tags [[link]](https://www.gwern.net/Danbooru2017) (Last updated Feb 17 2018)
+- 400,000 images from Niconico Seiga and Niconico Shunga with metadata [[link]](https://nico-opendata.jp/en/seigadata/index.html)
+- 2.9+ million images database from Danbooru with tags [[link]](https://www.gwern.net/Danbooru2017) (Last updated March 19 2018)
 
 # Anime Papers
 ## Anime Colorization
