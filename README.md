@@ -11,6 +11,7 @@ Contributions welcome!
   - [Anime Datasets](#anime-datasets)
   - [Anime Pose Estimation](#anime-pose-estimation)
   - [Anime Sketch Simplification](#anime-sketch-simplifcation)
+  - [Anime Face Recognition](#anime-face-recognition)
   - [Anime Misc](#anime-misc)
   - [Anime Non-Deep Learning](#anime-non-deep-learning)
 - [General Papers](#general-papers)
@@ -18,6 +19,8 @@ Contributions welcome!
   - [Image Generation](#image-generation)
   - [Image Inpainting](#image-inpainting)
 - [Other Repositories](#other-repositories)
+  - [Anime Repositories](#anime-repositories)
+  - [General Repositories](#general-repositories)
 
 # Anime Datasets
 - 2000 anime/manga images with 2D pose annotations [[github]](https://github.com/dragonmeteor/AnimeDrawingsDataset) (Last updated June 10 2015)
@@ -46,6 +49,9 @@ Contributions welcome!
 ## Anime Sketch Simplification
 - Sketch Simplification by Classifying Strokes [[IEEE]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7899777) (December 4 2016)
 
+## Anime Face Recognition
+- A Multi-Label Convolutional Neural Network for Automatic Image Annotation [[link]](https://www.jstage.jst.go.jp/article/ipsjjip/23/6/23_767/_article) (July 5 2015)
+
 ## Anime Misc
 - Deep Extraction of Manga Structural Lines [[ACM]](https://dl.acm.org/citation.cfm?id=3073675) (July 2017)
 
@@ -53,6 +59,7 @@ Contributions welcome!
 - DrawFromDrawings: 2D Drawing Assistance via Stroke Interpolation with a Sketch Database [[PubMed]](https://www.ncbi.nlm.nih.gov/pubmed/27101610) (2016)
 - Sketch-based Manga Retrieval using Manga109 Dataset [[SpringerLink]](https://link.springer.com/article/10.1007%2Fs11042-016-4020-z) (November 9 2016)
 - Interactive Region Segmentation for Manga [[IEEE]](http://ieeexplore.ieee.org/document/7899993/) (December 4 2016)
+- Face Detection and Face Recognition of Cartoon Characters Using Feature Extraction [[IIEEJ]](http://www.iieej.org/trans/IEVC/IEVC2012/PDF/4B-1.pdf) (2012)
 
 # General Papers
 ## Image Colorization
@@ -75,4 +82,9 @@ High Resolution Face Completion with Multiple Controllable Attributes via Fully 
 Deep Structured Energy-Based Image Inpainting [[arXiv]](https://arxiv.org/abs/1801.07939) (January 24 2018) |
 
 # Other Repositories
+## Anime Repositories
+- [waifu2x - Image Super-Resolution for Anime-style art using Deep Convolutional Neural Networks](https://github.com/nagadomi/waifu2x)
+
+## General Repositories
 - [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning)
+- [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
