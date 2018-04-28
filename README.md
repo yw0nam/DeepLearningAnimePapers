@@ -54,6 +54,7 @@ Contributions welcome!
 
 ## Anime Misc
 - Deep Extraction of Manga Structural Lines [[ACM]](https://dl.acm.org/citation.cfm?id=3073675) (July 2017)
+- A survey of comics research in computer science [[arXiv]](https://arxiv.org/abs/1804.05490) (April 16 2018)
 
 ## Anime Non-Deep Learning
 - DrawFromDrawings: 2D Drawing Assistance via Stroke Interpolation with a Sketch Database [[PubMed]](https://www.ncbi.nlm.nih.gov/pubmed/27101610) (2016)
