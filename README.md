@@ -23,10 +23,10 @@ Contributions welcome!
   - [General Repositories](#general-repositories)
 
 # Anime Datasets
-- 2000 anime/manga images with 2D pose annotations [[github]](https://github.com/dragonmeteor/AnimeDrawingsDataset) (Last updated June 10 2015)
-- 109 manga volumes from the 1970s to 2010s [[link]](http://www.manga109.org/en/)
-- 400,000 images from Niconico Seiga and Niconico Shunga with metadata [[link]](https://nico-opendata.jp/en/seigadata/index.html)
-- 2.9+ million images database from Danbooru with tags [[link]](https://www.gwern.net/Danbooru2017) (Last updated March 19 2018)
+- AnimeDrawingsDataset: 2000 anime/manga images with 2D pose annotations [[github]](https://github.com/dragonmeteor/AnimeDrawingsDataset) (Last updated June 10 2015)
+- Manga109: 109 manga volumes from the 1970s to 2010s [[link]](http://www.manga109.org/en/)
+- Nico-Illust: 400,000 images from Niconico Seiga and Niconico Shunga with metadata [[link]](https://nico-opendata.jp/en/seigadata/index.html)
+- Danbooru2017: 2.9+ million images database from Danbooru with tags [[link]](https://www.gwern.net/Danbooru2017) (Last updated March 19 2018)
 
 # Anime Papers
 ## Anime Colorization
@@ -54,7 +54,7 @@ Contributions welcome!
 
 ## Anime Misc
 - Deep Extraction of Manga Structural Lines [[ACM]](https://dl.acm.org/citation.cfm?id=3073675) (July 2017)
-- A survey of comics research in computer science [[arXiv]](https://arxiv.org/abs/1804.05490) (April 16 2018)
+- A Survey of Comics Research in Computer Science [[arXiv]](https://arxiv.org/abs/1804.05490) (April 16 2018)
 
 ## Anime Non-Deep Learning
 - DrawFromDrawings: 2D Drawing Assistance via Stroke Interpolation with a Sketch Database [[PubMed]](https://www.ncbi.nlm.nih.gov/pubmed/27101610) (2016)
