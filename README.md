@@ -10,7 +10,7 @@ Contributions welcome!
   - [Anime Inpainting](#anime-inpainting)
   - [Anime Datasets](#anime-datasets)
   - [Anime Pose Estimation](#anime-pose-estimation)
-  - [Anime Sketch Simplification](#anime-sketch-simplifcation)
+  - [Anime Sketch Editing](#anime-sketch-editing)
   - [Anime Face Recognition](#anime-face-recognition)
   - [Anime Misc](#anime-misc)
   - [Anime Non-Deep Learning](#anime-non-deep-learning)
@@ -46,8 +46,10 @@ Contributions welcome!
 ## Anime Pose Estimation
 - Pose Estimation of Anime/Manga Characters: A Case for Synthetic Data [[ACM]](https://dl.acm.org/citation.cfm?id=3011552) (December 4 2016)
 
-## Anime Sketch Simplification
+## Anime Sketch Editing
 - Sketch Simplification by Classifying Strokes [[IEEE]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7899777) (December 4 2016)
+- Mastering Sketching: Adversarial Augmentation for Structured Prediction [[Project page with paper link]](http://hi.cs.waseda.ac.jp/~esimo/en/research/sketch_master/) (January 18 2018) Note the version of this paper on arXiv is outdated.
+- Real-Time Data-Driven Interactive Rough Sketch Inking [[Project page with paper link]](http://hi.cs.waseda.ac.jp/~esimo/en/research/inking/) (January 18 2018)
 
 ## Anime Face Recognition
 - A Multi-Label Convolutional Neural Network for Automatic Image Annotation [[link]](https://www.jstage.jst.go.jp/article/ipsjjip/23/6/23_767/_article) (July 5 2015)
