@@ -33,6 +33,7 @@ Contributions welcome!
 - Into the Colorful World of Webtoons: Through the Lens of Neural Networks [[semanticscholar]](https://www.semanticscholar.org/paper/Into-the-Colorful-World-of-Webtoons-Through-the-Le-Cinarel-Zhang/341d3329284158ba729dad88bbb59470655a97f8) (2017)
 - Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN [[arXiv]](https://arxiv.org/abs/1706.03319) (June 11 2017)
 - cGAN-based Manga Colorization Using a Single Training Image [[arXiv]](https://arxiv.org/abs/1706.06918) (June 21 2017)
+- Automatic Colorization of Webtoons Using Deep Convolutional Neural Networks [[link]](https://doi.org/10371/141545) (February 2018)
 
 ## Anime Generation
 - Towards the Automatic Anime Characters Creation with Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1708.05509) [[official implementation]](https://github.com/makegirlsmoe/makegirlsmoe_web) (August 18 2017)
