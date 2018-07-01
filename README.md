@@ -11,6 +11,7 @@ Contributions welcome!
   - [Anime Inpainting](#anime-inpainting)
   - [Anime Pose Estimation](#anime-pose-estimation)
   - [Anime Sketch Editing](#anime-sketch-editing)
+  - [Anime Style Transfer](#anime-style-transfer)
   - [Anime Misc](#anime-misc)
   - [Anime Non-Deep Learning](#anime-non-deep-learning)
 - [General Papers](#general-papers)
