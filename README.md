@@ -6,12 +6,11 @@ Contributions welcome!
 - [Anime Datasets](#anime-datsets)
 - [Anime Papers](#anime-papers)
   - [Anime Colorization](#anime-colorization)
+  - [Anime Face Recognition](#anime-face-recognition)
   - [Anime Generation](#anime-generation)
   - [Anime Inpainting](#anime-inpainting)
-  - [Anime Datasets](#anime-datasets)
   - [Anime Pose Estimation](#anime-pose-estimation)
   - [Anime Sketch Editing](#anime-sketch-editing)
-  - [Anime Face Recognition](#anime-face-recognition)
   - [Anime Misc](#anime-misc)
   - [Anime Non-Deep Learning](#anime-non-deep-learning)
 - [General Papers](#general-papers)
@@ -35,14 +34,14 @@ Contributions welcome!
 - cGAN-based Manga Colorization Using a Single Training Image [[arXiv]](https://arxiv.org/abs/1706.06918) (June 21 2017)
 - Automatic Colorization of Webtoons Using Deep Convolutional Neural Networks [[link]](https://doi.org/10371/141545) (February 2018)
 
+## Anime Face Recognition
+- A Multi-Label Convolutional Neural Network for Automatic Image Annotation [[link]](https://www.jstage.jst.go.jp/article/ipsjjip/23/6/23_767/_article) (July 5 2015)
+
 ## Anime Generation
 - Towards the Automatic Anime Characters Creation with Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1708.05509) [[official implementation]](https://github.com/makegirlsmoe/makegirlsmoe_web) (August 18 2017)
 
 ## Anime Inpainting
 - Joint Gap Detection and Inpainting of Line Drawings [[link]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Sasaki_Joint_Gap_Detection_CVPR_2017_paper.pdf) (2017)
-
-## Anime Datasets
-- Manga109 Dataset and Creation of Metadata [[ACM]](https://dl.acm.org/citation.cfm?doid=3011549.3011551) (December 4 2016)
 
 ## Anime Pose Estimation
 - Pose Estimation of Anime/Manga Characters: A Case for Synthetic Data [[ACM]](https://dl.acm.org/citation.cfm?id=3011552) (December 4 2016)
@@ -52,8 +51,9 @@ Contributions welcome!
 - Mastering Sketching: Adversarial Augmentation for Structured Prediction [[Project page with paper link]](http://hi.cs.waseda.ac.jp/~esimo/en/research/sketch_master/) (January 18 2018) Note the version of this paper on arXiv is outdated.
 - Real-Time Data-Driven Interactive Rough Sketch Inking [[Project page with paper link]](http://hi.cs.waseda.ac.jp/~esimo/en/research/inking/) (January 18 2018)
 
-## Anime Face Recognition
-- A Multi-Label Convolutional Neural Network for Automatic Image Annotation [[link]](https://www.jstage.jst.go.jp/article/ipsjjip/23/6/23_767/_article) (July 5 2015)
+## Anime Style Transfer
+- Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN [[arXiv]](https://arxiv.org/abs/1706.03319v2) (June 11 2017)
+- Anime Style Space Exploration Using Metric Learning and Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1805.07997v1) (May 21 2018)
 
 ## Anime Misc
 - Deep Extraction of Manga Structural Lines [[ACM]](https://dl.acm.org/citation.cfm?id=3073675) (July 2017)
@@ -84,7 +84,8 @@ Context-Aware Semantic Inpainting [[arXiv]](https://arxiv.org/abs/1712.07778) (D
 Light-weight pixel context encoders for image inpainting [[arXiv]](https://arxiv.org/abs/1801.05585) (January 17 2018)
 High Resolution Face Completion with Multiple Controllable Attributes via Fully End-to-End Progressive Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1801.07632v1) (January 23 2018) | <ul><li>Conditioned on facial attributes.</li><li>Progressive growing of GANs.</li><li>Three new losses: attribute, feature, and boundary.</li></ul> | <ul><li>Fails to learn low level skin features.</li><li>Long training time.</li></ul> | 1024 x 1024 x 3, arbitrary mask | Soon
 Deep Structured Energy-Based Image Inpainting [[arXiv]](https://arxiv.org/abs/1801.07939) (January 24 2018) |
-Image Inpainting for Irregular Holes Using Partial Convolutions [[arXiv]](https://arxiv.org/abs/1804.07723) (April 20 2018) | <ul><li>Introduces partial convolutions, which exclude information from the mask.</li><li>State of the art inpainting for irregular masks.</li><li>No post processing.</li></ul> | | 512 x 512 x 3, arbitrary mask |
+Image Inpainting for Irregular Holes Using Partial Convolutions [[arXiv]](https://arxiv.org/abs/1804.07723) (April 20 2018) | <ul><li>Introduces partial convolutions, which exclude information from the mask.</li><li>No post processing.</li></ul> | | 512 x 512 x 3, arbitrary mask |
+Free-Form Image Inpainting with Gated Convolution [[arXiv]](https://arxiv.org/abs/1806.03589) (June 10 2018) | <ul><li>Utilizes gated convolutions.</li><li>State of the art inpainting for irregular masks.</li><li>No post processing.</li></ul> | | 512 x 512 x 3, arbitrary mask | Soon
 
 # Other Repositories
 ## Anime Repositories
