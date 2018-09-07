@@ -9,6 +9,7 @@ Contributions welcome!
   - [Anime Face Recognition](#anime-face-recognition)
   - [Anime Generation](#anime-generation)
   - [Anime Inpainting](#anime-inpainting)
+  - [Anime Image-to_Image Translation](#anime-image-to-image-translation)
   - [Anime Pose Estimation](#anime-pose-estimation)
   - [Anime Sketch Editing](#anime-sketch-editing)
   - [Anime Style Transfer](#anime-style-transfer)
@@ -40,6 +41,9 @@ Contributions welcome!
 
 ## Anime Generation
 - Towards the Automatic Anime Characters Creation with Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1708.05509) [[official implementation]](https://github.com/makegirlsmoe/makegirlsmoe_web) (August 18 2017)
+
+## Anime Image-to-Image Translation
+- Improving Shape Deformation in Unsupervised Image-to-Image Translation [[arxiv]](https://arxiv.org/abs/1808.04325) (August 13 2018)
 
 ## Anime Inpainting
 - Joint Gap Detection and Inpainting of Line Drawings [[link]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Sasaki_Joint_Gap_Detection_CVPR_2017_paper.pdf) (2017)
