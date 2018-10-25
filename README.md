@@ -35,12 +35,14 @@ Contributions welcome!
 - Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN [[arXiv]](https://arxiv.org/abs/1706.03319) (June 11 2017)
 - cGAN-based Manga Colorization Using a Single Training Image [[arXiv]](https://arxiv.org/abs/1706.06918) (June 21 2017)
 - Automatic Colorization of Webtoons Using Deep Convolutional Neural Networks [[link]](https://doi.org/10371/141545) (February 2018)
+- User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks [[arXiv]](https://arxiv.org/abs/1808.03240v2) (August 10 2018)
 
 ## Anime Face Recognition
 - A Multi-Label Convolutional Neural Network for Automatic Image Annotation [[link]](https://www.jstage.jst.go.jp/article/ipsjjip/23/6/23_767/_article) (July 5 2015)
 
 ## Anime Generation
 - Towards the Automatic Anime Characters Creation with Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1708.05509) [[official implementation]](https://github.com/makegirlsmoe/makegirlsmoe_web) (August 18 2017)
+- Full-body High-resolution Anime Generation with Progressive Structure-conditional Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1809.01890v1) (September 6 2018)
 
 ## Anime Image-to-Image Translation
 - Improving Shape Deformation in Unsupervised Image-to-Image Translation [[arxiv]](https://arxiv.org/abs/1808.04325) (August 13 2018)
