@@ -9,7 +9,7 @@ Contributions welcome!
   - [Anime Face Recognition](#anime-face-recognition)
   - [Anime Generation](#anime-generation)
   - [Anime Inpainting](#anime-inpainting)
-  - [Anime Image-to_Image Translation](#anime-image-to-image-translation)
+  - [Anime Image-to-Image Translation](#anime-image-to-image-translation)
   - [Anime Pose Estimation](#anime-pose-estimation)
   - [Anime Sketch Editing](#anime-sketch-editing)
   - [Anime Style Transfer](#anime-style-transfer)
