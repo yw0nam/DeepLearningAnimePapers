@@ -9,7 +9,7 @@ Contributions welcome!
   - [Anime Face Recognition](#anime-face-recognition)
   - [Anime Generation](#anime-generation)
   - [Anime Inpainting](#anime-inpainting)
-  - [Anime Image-to_Image Translation](#anime-image-to-image-translation)
+  - [Anime Image-to-Image Translation](#anime-image-to-image-translation)
   - [Anime Pose Estimation](#anime-pose-estimation)
   - [Anime Sketch Editing](#anime-sketch-editing)
   - [Anime Style Transfer](#anime-style-transfer)
@@ -28,6 +28,8 @@ Contributions welcome!
 - Manga109: 109 manga volumes from the 1970s to 2010s [[link]](http://www.manga109.org/en/)
 - Nico-Illust: 400,000 images from Niconico Seiga and Niconico Shunga with metadata [[link]](https://nico-opendata.jp/en/seigadata/index.html)
 - Danbooru2017: 2.9+ million images database from Danbooru with tags [[link]](https://www.gwern.net/Danbooru2017) (Last updated March 19 2018)
+- Danbooru2018: 3.3+ million images database from Danbooru with tags [[link]](https://www.gwern.net/Danbooru2018) (Last updated April 04 2019)
+- MyAnimeList Dataset: crawled data about 14k+ anime, 300k+ users, and 80+ million animelist records [[link]](https://www.kaggle.com/azathoth42/myanimelist) (Last Updated June 29 2018)
 
 # Anime Papers
 ## Anime Colorization
@@ -43,12 +45,14 @@ Contributions welcome!
 ## Anime Generation
 - Towards the Automatic Anime Characters Creation with Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1708.05509) [[official implementation]](https://github.com/makegirlsmoe/makegirlsmoe_web) (August 18 2017)
 - Full-body High-resolution Anime Generation with Progressive Structure-conditional Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1809.01890v1) (September 6 2018)
+- StyleGAN trained on Danbooru2018 dataset [[very detailed description of everything]](https://www.gwern.net/Faces)
 
 ## Anime Image-to-Image Translation
 - Improving Shape Deformation in Unsupervised Image-to-Image Translation [[arxiv]](https://arxiv.org/abs/1808.04325) (August 13 2018)
 
 ## Anime Inpainting
 - Joint Gap Detection and Inpainting of Line Drawings [[link]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Sasaki_Joint_Gap_Detection_CVPR_2017_paper.pdf) (2017)
+- Hentai Decensoring https://github.com/deeppomf/DeepCreamPy based on following Image Inpaiting paper [[arXiv](https://arxiv.org/abs/1804.07723)
 
 ## Anime Pose Estimation
 - Pose Estimation of Anime/Manga Characters: A Case for Synthetic Data [[ACM]](https://dl.acm.org/citation.cfm?id=3011552) (December 4 2016)
@@ -61,6 +65,9 @@ Contributions welcome!
 ## Anime Style Transfer
 - Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN [[arXiv]](https://arxiv.org/abs/1706.03319v2) (June 11 2017)
 - Anime Style Space Exploration Using Metric Learning and Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1805.07997v1) (May 21 2018)
+
+## Anime Super Resolution
+- Images Super Resolution [waifu2x - Image Super-Resolution for Anime-style art using Deep Convolutional Neural Networks](https://github.com/nagadomi/waifu2x), based on following paper [[arXiv]](https://arxiv.org/abs/1501.00092)
 
 ## Anime Misc
 - Deep Extraction of Manga Structural Lines [[ACM]](https://dl.acm.org/citation.cfm?id=3073675) (July 2017)
@@ -96,7 +103,7 @@ Free-Form Image Inpainting with Gated Convolution [[arXiv]](https://arxiv.org/ab
 
 # Other Repositories
 ## Anime Repositories
-- [waifu2x - Image Super-Resolution for Anime-style art using Deep Convolutional Neural Networks](https://github.com/nagadomi/waifu2x)
+- none
 
 ## General Repositories
 - [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning)
