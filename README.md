@@ -41,6 +41,8 @@ Contributions welcome!
 
 ## Anime Face Recognition
 - A Multi-Label Convolutional Neural Network for Automatic Image Annotation [[link]](https://www.jstage.jst.go.jp/article/ipsjjip/23/6/23_767/_article) (July 5 2015)
+- Disentangling Style and Content in Anime Illustrations [[arXiv]](https://arxiv.org/abs/1905.10742v2)
+- 
 
 ## Anime Generation
 - Towards the Automatic Anime Characters Creation with Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1708.05509) [[official implementation]](https://github.com/makegirlsmoe/makegirlsmoe_web) (August 18 2017)
@@ -48,7 +50,8 @@ Contributions welcome!
 - StyleGAN trained on Danbooru2018 dataset [[very detailed description of everything]](https://www.gwern.net/Faces)
 
 ## Anime Image-to-Image Translation
-- Improving Shape Deformation in Unsupervised Image-to-Image Translation [[arxiv]](https://arxiv.org/abs/1808.04325) (August 13 2018)
+- Improving Shape Deformation in Unsupervised Image-to-Image Translation [[arXiv]](https://arxiv.org/abs/1808.04325) (August 13 2018)
+- Landmark Assisted CycleGAN for Cartoon Face Generation [[arXiv]](https://arxiv.org/abs/1907.01424v1)
 
 ## Anime Inpainting
 - Joint Gap Detection and Inpainting of Line Drawings [[link]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Sasaki_Joint_Gap_Detection_CVPR_2017_paper.pdf) (2017)
