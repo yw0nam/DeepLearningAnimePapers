@@ -55,7 +55,7 @@ Contributions welcome!
 
 ## Anime Inpainting
 - Joint Gap Detection and Inpainting of Line Drawings [[link]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Sasaki_Joint_Gap_Detection_CVPR_2017_paper.pdf) (2017)
-- Hentai Decensoring https://github.com/deeppomf/DeepCreamPy based on following Image Inpaiting paper [[arXiv](https://arxiv.org/abs/1804.07723)
+- Decensoring Hentai with Deep Neural Networks https://github.com/deeppomf/DeepCreamPy (my project!) based on following Image Inpainting paper [[arXiv](https://arxiv.org/abs/1804.07723)
 
 ## Anime Pose Estimation
 - Pose Estimation of Anime/Manga Characters: A Case for Synthetic Data [[ACM]](https://dl.acm.org/citation.cfm?id=3011552) (December 4 2016)
