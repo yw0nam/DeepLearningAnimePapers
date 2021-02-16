@@ -30,6 +30,7 @@ Contributions welcome!
 - Danbooru2017: 2.9+ million images database from Danbooru with tags [[link]](https://www.gwern.net/Danbooru2017) (Last updated March 19 2018)
 - Danbooru2018: 3.3+ million images database from Danbooru with tags [[link]](https://www.gwern.net/Danbooru2018) (Last updated April 04 2019)
 - MyAnimeList Dataset: crawled data about 14k+ anime, 300k+ users, and 80+ million animelist records [[link]](https://www.kaggle.com/azathoth42/myanimelist) (Last Updated June 29 2018)
+- DanbooRegion: An Illustration Region Dataset(ECCV 2020)[[link]](https://lllyasviel.github.io/DanbooRegion/)
 
 # Anime Papers
 ## Anime Colorization
@@ -84,7 +85,7 @@ Contributions welcome!
 # General Papers
 ## Image Colorization
 - Real-Time User-Guided Image Colorization with Learned Deep Priors [[arXiv]](https://arxiv.org/abs/1705.02999) (May 8 2017)
-
+- Reference-Based Sketch Image Colorization using Augmented-Self Reference and Dense Semantic Correspondence(CVPR 2020)[pdf](https://arxiv.org/abs/2005.05207)
 ## Image Generation
 - StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1710.10916) (October 19 2017) [[original pytorch implementation]](https://github.com/hanzhanggit/StackGAN-v2)
 - Progressive Growing of GANs for Improved Quality, Stability, and Variation [[arXiv]](https://arxiv.org/abs/1710.10196) (October 27 2017) [[original theano/lasagne implementation]](https://github.com/tkarras/progressive_growing_of_gans)
